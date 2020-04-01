@@ -4,7 +4,7 @@ package Geroot;
 import java.util.Scanner;
 
 
-public class Input_output {
+public class Input_Output {
 
    
     public static void main(String[] args) {
