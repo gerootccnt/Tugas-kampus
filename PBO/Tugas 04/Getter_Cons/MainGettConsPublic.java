@@ -7,7 +7,7 @@ public class Main {
         
     	Scanner input = new Scanner(System.in);
     	
-    	System.out.println("nama nama matakuliah dan nama dosen");
+    	System.out.println("Code nama matakuliah dan nama dosen");
     	System.out.println("=====================================================================");
     	//Menciptakan suatu objek dan menetapkan isi (matakulian dan dosen) construtor
     	Input panggilcons=new Input("PBO","Iin");{
